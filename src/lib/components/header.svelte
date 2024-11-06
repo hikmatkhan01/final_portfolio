@@ -17,6 +17,7 @@
             <h1>HK Portfolio</h1>
           </div>
           <div>
+<<<<<<< HEAD
             <ul class="hidden md:flex gap-4 space-x-10 justify-center items-center text-gray-600 font-bold text-sm">
               <li class="hover:text-gray-400"><a href="/">Home</a></li>
               <li class="hover:text-gray-400"><a href="/aboutme">About Us</a></li>
@@ -26,6 +27,17 @@
                hover:bg-gradient-to-t from-[#6f38d7] to-[#9198e5] hover:text-white">
                 <a href="/contact">Contact Us <span>&rarr;</span></a>
               </li>
+=======
+            <ul
+              class="hidden md:flex gap-4 space-x-10 justify-center items-center text-gray-600 font-bold text-sm"
+            >
+              <li class="hover:text-gray-400"><a href="#">Home</a></li>
+              <li class="hover:text-gray-400"><a href="/blogs">Blogs</a></li>
+              <li class="hover:text-gray-400"><a href="#">Content</a></li>
+              <li class="hover:text-gray-400"><a href="">About Us</a></li>
+              <li class="hover:text-gray-400 border-[0.5px]
+               border-indigo-300 rounded-full py-2 px-4 transition duration-[1s] ease-in-out hover:bg-gradient-to-t from-[#6f38d7] to-[#9198e5] hover:text-white "><a href="">ContactUs <span>&rarr;</span></a></li>
+>>>>>>> 575d654e5d002a3d70fc6b1debc1f00ebdb38dd9
             </ul>
             
           </div>
